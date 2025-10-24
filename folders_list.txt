@@ -1,0 +1,10 @@
+Applications/
+Desktop/
+developer-tools-lab4/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
